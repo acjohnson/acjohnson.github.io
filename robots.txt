@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://mail.pcdomain.com:2368/sitemap.xml
+Disallow: /ghost/
