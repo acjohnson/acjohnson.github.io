@@ -18,6 +18,8 @@ mkdir -p /usr/local/man/man1 && cp ./share/man/man1/node.1
 ```
 * Clone this repository
 ```shell
+mkdir static
+cd static
 git clone https://github.com/acjohnson/acjohnson.github.io.git
 ```
 * Start Ghost
@@ -25,4 +27,22 @@ git clone https://github.com/acjohnson/acjohnson.github.io.git
 cd acjohnson.github.io/ghost
 npm install
 npm start
+```
+* Browse to Ghost site:
+http://<hostname>:2368
+* Login to Ghost admin:
+http://<hostname>:2368/ghost
+* Install buster
+```shell
+pip install buster
+```
+* Create new static content with Buster
+Note: Ensure ghost is running on port 2368
+```shell
+cd static
+buster generate
+```
+* Preview the static content
+```shell
+buster preview
 ```

@@ -1,0 +1,3 @@
+[submodule "Coder"]
+    path = ghost/content/themes/Coder
+    url = https://github.com/dongri/Coder.git
