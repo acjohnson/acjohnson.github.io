@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on aaronjohnson.io</title>
+    <link>http://aaronjohnson.io/tags/golang/</link>
+    <description>Recent content in Golang on aaronjohnson.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Aug 2016 23:48:10 -0500</lastBuildDate>
+    <atom:link href="http://aaronjohnson.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>http://aaronjohnson.io/post/welcome/</link>
+      <pubDate>Tue, 23 Aug 2016 23:48:10 -0500</pubDate>
+      
+      <guid>http://aaronjohnson.io/post/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

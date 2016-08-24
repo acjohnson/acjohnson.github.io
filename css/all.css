@@ -611,7 +611,7 @@ header, footer {
 
 header {
   background-position: 30px 20px, 50% 50%;
-  background-image: url(../img/logo.svg), url(../img/hero-bg.jpg);
+  background-image: url(../img/logo.png), url(../img/hero-bg.jpg);
   padding-bottom: 50px; }
   header .logo {
     height: 50px;
@@ -659,7 +659,7 @@ header {
     header h1 {
       padding-top: 0px; } }
 footer {
-  background-image: url(../img/logo.svg), url(../img/hero-bg.jpg); }
+  background-image: url(../img/logo.png), url(../img/hero-bg.jpg); }
   footer .lockup {
     padding: 50px 30px; }
     footer .lockup:after {
@@ -1149,6 +1149,11 @@ footer {
     display: block; } }
 .section-contact {
   text-align: center; }
+.section-posts {
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  line-height: normal; }
 
 .social-links {
   max-width: 700px;

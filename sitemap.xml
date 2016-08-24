@@ -2,39 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://pcdomain.com/</loc>
+    <loc>http://aaronjohnson.io/</loc>
+    <lastmod>2016-08-23T23:48:10-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pcdomain.com/work/proj-1/</loc>
+    <loc>http://aaronjohnson.io/post/welcome/</loc>
+    <lastmod>2016-08-23T23:48:10-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pcdomain.com/work/proj-2/</loc>
+    <loc>http://aaronjohnson.io/work/proj-1/</loc>
   </url>
   
   <url>
-    <loc>http://pcdomain.com/work/proj-3/</loc>
+    <loc>http://aaronjohnson.io/work/proj-2/</loc>
   </url>
   
   <url>
-    <loc>http://pcdomain.com/work/proj-4/</loc>
+    <loc>http://aaronjohnson.io/work/proj-3/</loc>
   </url>
   
   <url>
-    <loc>http://pcdomain.com/work/proj-5/</loc>
+    <loc>http://aaronjohnson.io/work/proj-4/</loc>
   </url>
   
   <url>
-    <loc>http://pcdomain.com/work/proj-6/</loc>
+    <loc>http://aaronjohnson.io/work/proj-5/</loc>
   </url>
   
   <url>
-    <loc>http://pcdomain.com/work/proj-7/</loc>
+    <loc>http://aaronjohnson.io/work/proj-6/</loc>
   </url>
   
   <url>
-    <loc>http://pcdomain.com/work/proj-8/</loc>
+    <loc>http://aaronjohnson.io/work/proj-7/</loc>
+  </url>
+  
+  <url>
+    <loc>http://aaronjohnson.io/work/proj-8/</loc>
   </url>
   
 </urlset>
