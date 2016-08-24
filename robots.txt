@@ -1,3 +1,0 @@
-User-agent: *
-Sitemap: http://aaronjohnson.io/sitemap.xml
-Disallow: /ghost/
