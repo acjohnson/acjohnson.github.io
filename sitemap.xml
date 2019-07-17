@@ -1,46 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://aaronjohnson.io/</loc>
-    <lastmod>2016-08-23T23:48:10-05:00</lastmod>
+    <lastmod>2019-07-17T09:16:36-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://aaronjohnson.io/post/welcome/</loc>
-    <lastmod>2016-08-23T23:48:10-05:00</lastmod>
+    <loc>http://aaronjohnson.io/posts/</loc>
+    <lastmod>2019-07-17T09:16:36-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://aaronjohnson.io/work/proj-1/</loc>
+    <loc>http://aaronjohnson.io/posts/resume/</loc>
+    <lastmod>2019-07-17T09:16:36-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aaronjohnson.io/work/proj-2/</loc>
+    <loc>http://aaronjohnson.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://aaronjohnson.io/work/proj-3/</loc>
-  </url>
-  
-  <url>
-    <loc>http://aaronjohnson.io/work/proj-4/</loc>
-  </url>
-  
-  <url>
-    <loc>http://aaronjohnson.io/work/proj-5/</loc>
-  </url>
-  
-  <url>
-    <loc>http://aaronjohnson.io/work/proj-6/</loc>
-  </url>
-  
-  <url>
-    <loc>http://aaronjohnson.io/work/proj-7/</loc>
-  </url>
-  
-  <url>
-    <loc>http://aaronjohnson.io/work/proj-8/</loc>
+    <loc>http://aaronjohnson.io/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
